@@ -97,6 +97,7 @@ GEM
     moped (1.5.1)
     multi_json (1.8.2)
     multipart-post (1.2.0)
+    nifty-generators (0.4.6)
     oauth2 (0.8.1)
       faraday (~> 0.8)
       httpauth (~> 0.1)
@@ -172,6 +173,7 @@ DEPENDENCIES
   google-api-client
   jquery-rails
   mongoid
+  nifty-generators
   omniauth
   omniauth-google-oauth2!
   rails (= 3.2.14)
